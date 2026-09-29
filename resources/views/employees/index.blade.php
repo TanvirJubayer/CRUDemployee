@@ -13,7 +13,7 @@
     <a href="/employees/create">Add Employee</a>
     <br>
     <br>
-    <table border="1" cellspacing='0' cellpadding='8'>
+    <table border="1" cellspacing='0' cellpadding='10'>
         <thead>
             <tr>
                 <th>ID</th>
